@@ -1,0 +1,303 @@
+[
+  {
+    "GivenOn": "2025-03-01",
+    "Content": "The group's creative direction is truly refreshing.",
+    "Status": "Published",
+    "GroupId": 1,
+    "ArtistId": 1
+  },
+  {
+    "GivenOn": "2025-03-02",
+    "Content": "Excited to work with such a talented team!",
+    "Status": "Pending",
+    "GroupId": 1,
+    "ArtistId": 2
+  },
+  {
+    "GivenOn": "2025-04-04",
+    "Content": "",
+    "Status": "Published",
+    "GroupId": 1,
+    "ArtistId": 3
+  },
+  {
+    "GivenOn": "2025-03-03",
+    "Content": "Impressive vision for modern art evolution.",
+    "Status": "Reviewed",
+    "GroupId": 1,
+    "ArtistId": 4
+  },
+  {
+    "GivenOn": "2025-03-04",
+    "Content": "The collaboration feels seamless and inspiring.",
+    "Status": "Published",
+    "GroupId": 1,
+    "ArtistId": 8
+  },
+  {
+    "GivenOn": "2025-03-05",
+    "Content": "This group embraces innovation — love it!",
+    "Status": "Reviewed",
+    "GroupId": 1,
+    "ArtistId": 9
+  },
+  {
+    "GivenOn": "2025-03-06",
+    "Content": "I believe we're setting a new standard in the art scene.",
+    "Status": "Published",
+    "GroupId": 1,
+    "ArtistId": 10
+  },
+  {
+    "GivenOn": "2025-03-07",
+    "Content": "The group's aesthetic truly pushes boundaries.",
+    "Status": "Published",
+    "GroupId": 2,
+    "ArtistId": 1
+  },
+  {
+    "GivenOn": "2025-03-08",
+    "Content": "Love the diversity of styles represented here.",
+    "Status": "Reviewed",
+    "GroupId": 2,
+    "ArtistId": 2
+  },
+  {
+    "GivenOn": "2025-03-09",
+    "Content": "I feel very inspired by the team's dedication.",
+    "Status": "Published",
+    "GroupId": 2,
+    "ArtistId": 3
+  },
+  {
+    "GivenOn": "04-05-2025",
+    "Content": "Misaligned with the theme.",
+    "Status": "Reviewed",
+    "GroupId": 2,
+    "ArtistId": 4
+  },
+  {
+    "GivenOn": "2025-03-10",
+    "Content": "Looking forward to seeing how we evolve this month.",
+    "Status": "Pending",
+    "GroupId": 2,
+    "ArtistId": 4
+  },
+  {
+    "GivenOn": "2025-03-11",
+    "Content": "This project blends modernism and tradition beautifully.",
+    "Status": "Reviewed",
+    "GroupId": 2,
+    "ArtistId": 5
+  },
+  {
+    "GivenOn": "2025-03-12",
+    "Content": "Our group dynamic makes bold creativity possible.",
+    "Status": "Published",
+    "GroupId": 2,
+    "ArtistId": 6
+  },
+  {
+    "GivenOn": "2025-03-13",
+    "Content": "We have a strong concept that deserves global attention.",
+    "Status": "Reviewed",
+    "GroupId": 2,
+    "ArtistId": 7
+  },
+  {
+    "GivenOn": "2025-03-14",
+    "Content": "This group values critique and deep discussion — amazing!",
+    "Status": "Published",
+    "GroupId": 3,
+    "ArtistId": 2
+  },
+  {
+    "GivenOn": "2025-03-15",
+    "Content": "The visual storytelling we're developing is powerful.",
+    "Status": "Reviewed",
+    "GroupId": 3,
+    "ArtistId": 4
+  },
+  {
+    "GivenOn": "2025-03-16",
+    "Content": "Each session brings a new layer of artistic growth.",
+    "Status": "Pending",
+    "GroupId": 3,
+    "ArtistId": 6
+  },
+  {
+    "GivenOn": "2025-03-17",
+    "Content": "I'm proud to be part of this collective evolution.",
+    "Status": "Reviewed",
+    "GroupId": 3,
+    "ArtistId": 2
+  },
+  {
+    "GivenOn": "2025-04-06",
+    "Content": "The direction is confusing to me.",
+    "Status": "Done",
+    "GroupId": 3,
+    "ArtistId": 6
+  },
+  {
+    "GivenOn": "2025-03-18",
+    "Content": "The group's use of texture and tone is breathtaking.",
+    "Status": "Published",
+    "GroupId": 4,
+    "ArtistId": 3
+  },
+  {
+    "GivenOn": "2025-03-19",
+    "Content": "We're blending abstract and realism in compelling ways.",
+    "Status": "Reviewed",
+    "GroupId": 4,
+    "ArtistId": 8
+  },
+  {
+    "GivenOn": "2025-04-08",
+    "Content": "This artist ID is invalid.",
+    "Status": "Published",
+    "GroupId": 4,
+    "ArtistId": 999
+  },
+  {
+    "GivenOn": "2025-03-20",
+    "Content": "Love the fresh perspective everyone brings to the table.",
+    "Status": "Pending",
+    "GroupId": 4,
+    "ArtistId": 9
+  },
+  {
+    "GivenOn": "2025-04-10",
+    "Content": "Hi",
+    "Status": "Published",
+    "GroupId": 1,
+    "ArtistId": 3
+  },
+  {
+    "GivenOn": "2025-04-11",
+    "Content": "",
+    "Status": "Reviewed",
+    "GroupId": 2,
+    "ArtistId": 4
+  },
+  {
+    "GivenOn": "2025-04-12",
+    "Content": "This feedback contains more than two hundred characters. It keeps going and going just to make sure it goes past the allowed maximum. We're now past 150 and closing in... done!",
+    "Status": "Pending",
+    "GroupId": 3,
+    "ArtistId": 5
+  },
+  {
+    "GivenOn": "2025-03-21",
+    "Content": "This group is pushing me to new artistic heights.",
+    "Status": "Reviewed",
+    "GroupId": 4,
+    "ArtistId": 3
+  },
+  {
+    "GivenOn": "2025-03-22",
+    "Content": "This group's urban aesthetic is raw and deeply expressive.",
+    "Status": "Published",
+    "GroupId": 5,
+    "ArtistId": 8
+  },
+  {
+    "GivenOn": "2025-03-23",
+    "Content": "I appreciate how we explore the relationship between space and emotion.",
+    "Status": "Reviewed",
+    "GroupId": 5,
+    "ArtistId": 4
+  },
+  {
+    "GivenOn": "2025-03-24",
+    "Content": "The energy in our discussions has been electric and inspiring.",
+    "Status": "Published",
+    "GroupId": 5,
+    "ArtistId": 8
+  },
+  {
+    "GivenOn": "2025-03-25",
+    "Content": "The group's exploration of visual rhythm is fascinating.",
+    "Status": "Published",
+    "GroupId": 6,
+    "ArtistId": 5
+  },
+  {
+    "GivenOn": "2025-03-26",
+    "Content": "We’re finding a unique harmony between movement and color.",
+    "Status": "Reviewed",
+    "GroupId": 6,
+    "ArtistId": 6
+  },
+  {
+    "GivenOn": "2025-03-27",
+    "Content": "The freedom to experiment here has pushed my boundaries.",
+    "Status": "Pending",
+    "GroupId": 6,
+    "ArtistId": 7
+  },
+  {
+    "GivenOn": "2025-03-28",
+    "Content": "This group represents the future of expressionism.",
+    "Status": "Reviewed",
+    "GroupId": 6,
+    "ArtistId": 6
+  },
+  {
+    "GivenOn": "2025-03-29",
+    "Content": "The group's connection to nature is beautifully reflected in our work.",
+    "Status": "Published",
+    "GroupId": 7,
+    "ArtistId": 6
+  },
+  {
+    "GivenOn": "2025-03-30",
+    "Content": "Exploring organic forms has opened new creative pathways for me.",
+    "Status": "Reviewed",
+    "GroupId": 7,
+    "ArtistId": 10
+  },
+  {
+    "GivenOn": "2025-03-31",
+    "Content": "I’m constantly inspired by our dialogue with natural elements.",
+    "Status": "Reviewed",
+    "GroupId": 7,
+    "ArtistId": 6
+  },
+  {
+    "GivenOn": "2025-04-01",
+    "Content": "The surreal concepts explored here are absolutely captivating.",
+    "Status": "Published",
+    "GroupId": 8,
+    "ArtistId": 7
+  },
+  {
+    "GivenOn": "2025-04-02",
+    "Content": "I’m constantly challenged by the abstract nature of our themes.",
+    "Status": "Reviewed",
+    "GroupId": 8,
+    "ArtistId": 2
+  },
+  {
+    "GivenOn": "2025-04-02",
+    "Content": "I’m constantly challenged by the abstract nature of our themes.",
+    "Status": "Reviewed",
+    "GroupId": 8,
+    "ArtistId": 2
+  },
+  {
+    "GivenOn": "2025-04-03",
+    "Content": "The collaborative spirit in this group is unmatched.",
+    "Status": "Pending",
+    "GroupId": 8,
+    "ArtistId": 7
+  },
+  {
+    "GivenOn": "2025-04-07",
+    "Content": "This feedback refers to a group that doesn’t exist.",
+    "Status": "Pending",
+    "GroupId": 99,
+    "ArtistId": 2
+  }
+]

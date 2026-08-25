@@ -1,0 +1,248 @@
+[
+   
+    {
+      "username": "alessandro_rossi",
+      "collaborations": 2,
+      "artworks": [
+        {
+          "title": "Florence at Dawn",
+          "createdOn": "2025-03-01"
+        },
+        {
+          "title": "Architectural Echoes",
+          "createdOn": "2025-03-02"
+        },
+        {
+          "title": "Urban Renaissance",
+          "createdOn": "2025-03-03"
+        },
+        {
+          "title": "Golden Streets",
+          "createdOn": "2025-03-04"
+        },
+        {
+          "title": "Perspective Shift",
+          "createdOn": "2025-03-05"
+        },
+        {
+          "title": "The Silent Dome",
+          "createdOn": "2025-03-06"
+        }
+      ]
+    },
+    {
+      "username": "antoine_leblanc",
+      "collaborations": 2,
+      "artworks": [
+        {
+          "title": "Fragments of Color",
+          "createdOn": "2025-03-01"
+        },
+        {
+          "title": "Hidden Frame",
+          "createdOn": "2025-03-02"
+        },
+        {
+          "title": "Pastel Revolt",
+          "createdOn": "2025-03-03"
+        }
+      ]
+    },
+    {
+      "username": "camille_durand",
+      "collaborations": 3,
+      "artworks": [
+        {
+          "title": "Layered Silence",
+          "createdOn": "2025-03-01"
+        },
+        {
+          "title": "Transparent Future",
+          "createdOn": "2025-03-02"
+        }
+      ]
+    },
+    {
+      "username": "chiara_ferrari",
+      "collaborations": 3,
+      "artworks": [
+        {
+          "title": "Muted Carnival",
+          "createdOn": "2025-03-01"
+        },
+        {
+          "title": "Gravity Lines",
+          "createdOn": "2025-03-02"
+        },
+        {
+          "title": "Windswept",
+          "createdOn": "2025-03-03"
+        }
+      ]
+    },
+    {
+      "username": "élise_martin",
+      "collaborations": 2,
+      "artworks": [
+        {
+          "title": "Veil of Light",
+          "createdOn": "2025-03-01"
+        },
+        {
+          "title": "Soft Geometry",
+          "createdOn": "2025-03-02"
+        },
+        {
+          "title": "Eclipsed",
+          "createdOn": "2025-03-03"
+        },
+        {
+          "title": "Fractured Whisper",
+          "createdOn": "2025-03-04"
+        },
+        {
+          "title": "Dream Contour",
+          "createdOn": "2025-03-05"
+        }
+      ]
+    },
+    {
+      "username": "giulia_bianchi",
+      "collaborations": 3,
+      "artworks": [
+        {
+          "title": "Digital Bloom",
+          "createdOn": "2025-03-01"
+        },
+        {
+          "title": "Code Canvas",
+          "createdOn": "2025-03-02"
+        },
+        {
+          "title": "Fragmented Memory",
+          "createdOn": "2025-03-03"
+        },
+        {
+          "title": "Electric Stillness",
+          "createdOn": "2025-03-04"
+        }
+      ]
+    },
+    {
+      "username": "luca_verdi",
+      "collaborations": 2,
+      "artworks": [
+        {
+          "title": "Bronze Horizon",
+          "createdOn": "2025-03-01"
+        },
+        {
+          "title": "The Empty Field",
+          "createdOn": "2025-03-02"
+        },
+        {
+          "title": "After the Rain",
+          "createdOn": "2025-03-03"
+        },
+        {
+          "title": "Stone and Sky",
+          "createdOn": "2025-03-04"
+        },
+        {
+          "title": "Industrial Bloom",
+          "createdOn": "2025-03-05"
+        },
+        {
+          "title": "Silent Composition",
+          "createdOn": "2025-03-10"
+        }
+      ]
+    },
+    {
+      "username": "marie_dupont",
+      "collaborations": 3,
+      "artworks": [
+        {
+          "title": "Parisian Mist",
+          "createdOn": "2025-03-01"
+        },
+        {
+          "title": "Reflections in Seine",
+          "createdOn": "2025-03-02"
+        },
+        {
+          "title": "Window Shadows",
+          "createdOn": "2025-03-03"
+        },
+        {
+          "title": "Montmartre Evening",
+          "createdOn": "2025-03-04"
+        },
+        {
+          "title": "Lines of Time",
+          "createdOn": "2025-03-05"
+        },
+        {
+          "title": "The Silent Studio",
+          "createdOn": "2025-03-06"
+        },
+        {
+          "title": "Fleeting Light",
+          "createdOn": "2025-03-07"
+        }
+      ]
+    },
+    {
+      "username": "nicolas_moreau",
+      "collaborations": 2,
+      "artworks": [
+        {
+          "title": "Mechanical Bloom",
+          "createdOn": "2025-03-01"
+        },
+        {
+          "title": "Rust and Lace",
+          "createdOn": "2025-03-02"
+        },
+        {
+          "title": "Time Sketch",
+          "createdOn": "2025-03-03"
+        },
+        {
+          "title": "The Quiet Machine",
+          "createdOn": "2025-03-04"
+        }
+      ]
+    },
+    {
+      "username": "sofia_russo",
+      "collaborations": 2,
+      "artworks": [
+        {
+          "title": "Urban Wild",
+          "createdOn": "2025-03-01"
+        },
+        {
+          "title": "Neon Echo",
+          "createdOn": "2025-03-02"
+        },
+        {
+          "title": "Synthetic Mirage",
+          "createdOn": "2025-03-03"
+        },
+        {
+          "title": "Painted Pulse",
+          "createdOn": "2025-03-04"
+        },
+        {
+          "title": "Static Sea",
+          "createdOn": "2025-03-05"
+        },
+        {
+          "title": "Breath of Blue",
+          "createdOn": "2025-03-06"
+        }
+      ]
+    }
+  ]
+
